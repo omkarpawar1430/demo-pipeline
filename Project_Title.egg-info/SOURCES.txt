@@ -1,0 +1,25 @@
+README.md
+setup.py
+Project Title/__init__.py
+Project Title/components/__init__.py
+Project Title/components/data_ingetion.py
+Project Title/components/data_preprocessing.py
+Project Title/components/data_validation.py
+Project Title/components/model_evaluation.py
+Project Title/components/model_trainener.py
+Project Title/config/__init__.py
+Project Title/config/artifact.py
+Project Title/config/config.py
+Project Title/exception/__init__.py
+Project Title/exception/exception.py
+Project Title/logging/__init__.py
+Project Title/logging/logging.py
+Project Title/pipeline/__init__.py
+Project Title/pipeline/training_pipeling.py
+Project Title/utils/__init__.py
+Project Title/utils/utils.py
+Project_Title.egg-info/PKG-INFO
+Project_Title.egg-info/SOURCES.txt
+Project_Title.egg-info/dependency_links.txt
+Project_Title.egg-info/requires.txt
+Project_Title.egg-info/top_level.txt
